@@ -79,11 +79,6 @@ Van Hijfte, S. (2020) Blockchain Platforms: A Look at the Underbelly of Distribu
 
 tbd.
 
-#### About this Reading List
-
-tbd.
-
-
 
 CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
