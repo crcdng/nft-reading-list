@@ -1,7 +1,7 @@
 ## CryptoArt and NFT reading list
 
 
-#### CryptoArt / NFTs
+### CryptoArt / NFTs
 
 Bailey, J. (2017) ‘The Blockchain Art Market is Here’, Artnome, 27 December. Available at: https://www.artnome.com/news/2017/12/22/the-blockchain-art-market-is-here.
 
@@ -15,7 +15,7 @@ Ostachowski, M.L. (2021) History of Crypto Art. Available at: https://mlo.art/re
 
 Weidinger, A. et al. (eds) (2021) Proof of art: a short history of NFTs, from the beginning of digital art to the metaverse. Berlin: DISTANZ Verlag.
 
-#### Hic et Nunc / Teia
+### Hic et Nunc / Teia
 
 Bailey, J. (2021) ‘Hic Et Nunc Brings True Spirit Of Web Art To The Here And Now’, Artnome, 21 March. Available at: https://www.artnome.com/news/2021/3/21/hic-et-nunc-revives-the-true-spirit-of-web-art-through-nfts.
 
@@ -31,7 +31,7 @@ Straeubig, M. (2022) ‘A brief timeline of Hic et Nunc (H=N)’, GitHub. Availa
 
 Teia Community (2022) ‘Teia.art Launch Announcement’, Teia Community Updates & Resources, 1 February. Available at: https://hencommunity.quest/blog/teia-art-launch-announcement.
 
-#### The Art System
+### The Art System
 
 Luhmann, N. (2000) Art as a social system. Stanford University Press.
 
@@ -43,13 +43,13 @@ Warburton, N. (2003) The Art Question. London; New York: Routledge.
 
 Wilcox, J. (1953) ‘The Beginnings of l’Art Pour l’Art’, The Journal of Aesthetics and Art Criticism, 11(4), p. 360. doi:10.2307/426457.
 
-#### Economy / Gouvernance / Legal 
+### Economy / Gouvernance / Legal 
 
 DisCO.coop (2019) If I Only had a Heart: A DisCO Manifesto. DisCO.coop, Transnational Institute and Guerrilla Media Collective.
 
 Kerr, D. and Jennings, M. (2022) A Legal Framework for Decentralized Autonomous Organizations.
 
-#### Environmental Impact
+### Environmental Impact
 
 Koomey, J. (2019) Estimating Bitcoin Electricity Use: A Beginner’s Guide. Coin Center. Available at: https://www.coincenter.org/estimating-bitcoin-electricity-use-a-beginners-guide/.
 
@@ -59,7 +59,7 @@ McDonald, K. (2021) ‘Ethereum Emissions: A Bottom-up Estimate’, arXiv:2112.0
 
 Platt, M. et al. (2021) Energy Footprint of Blockchain Consensus Mechanisms Beyond Proof-of-Work. 7. UCL Centre for Blockchain Technologies. Available at: http://blockchain.cs.ucl.ac.uk/discussion-papers/.
 
-#### Technological Background
+### Technological Background
 
 Buterin, V. (2013) ‘Ethereum Whitepaper’. Available at: https://ethereum.org/en/whitepaper/.
 
@@ -75,10 +75,11 @@ Radomski, W. et al. (2022) Ethereum Improvement Proposal 1155. ethereum. Availab
 
 Van Hijfte, S. (2020) Blockchain Platforms: A Look at the Underbelly of Distributed Platforms. Morgan and Claypool.
 
-#### Commentary 
+### Commentary 
 
 tbd.
 
 
-CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
