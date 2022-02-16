@@ -73,6 +73,8 @@ Entriken, W. et al. (2022) Ethereum Improvement Proposal 721. Available at: http
 
 Goodman, L.M. (2014) Tezos — a self-amending crypto-ledger. White paper.
 
+Mishura, E. and Mondet, S. (2020) FA2 - Multi-Asset Interface. TZIP-12. Available at: https://gitlab.com/tezos/tzip/-/blob/master/proposals/tzip-12/tzip-12.md .
+
 Nakamoto, S. (2008) Bitcoin: A peer-to-peer electronic cash system. Available at: https://bitcoin.org/bitcoin.pdf.
 
 Radomski, W. et al. (2022) Ethereum Improvement Proposal 1155. Available at: https://github.com/ethereum/EIPs/blob/0fd7ed124cc248b4d3ec62d6202b3a249a7bfe90/EIPS/eip-1155.md.
