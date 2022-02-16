@@ -11,3 +11,5 @@ A curated Crypto Art and NFT [reading](reading.md) list.
 
 
 by [@crcdng](https://twitter.com/crcdng)
+
+License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
