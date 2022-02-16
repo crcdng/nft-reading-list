@@ -75,7 +75,7 @@ Goodman, L.M. (2014) Tezos — a self-amending crypto-ledger. White paper.
 
 Nakamoto, S. (2008) Bitcoin: A peer-to-peer electronic cash system. Available at: https://bitcoin.org/bitcoin.pdf.
 
-Radomski, W. et al. (2022) Ethereum Improvement Proposal 1155. ethereum. Available at: https://github.com/ethereum/EIPs/blob/0fd7ed124cc248b4d3ec62d6202b3a249a7bfe90/EIPS/eip-1155.md.
+Radomski, W. et al. (2022) Ethereum Improvement Proposal 1155. Available at: https://github.com/ethereum/EIPs/blob/0fd7ed124cc248b4d3ec62d6202b3a249a7bfe90/EIPS/eip-1155.md.
 
 Van Hijfte, S. (2020) Blockchain Platforms: A Look at the Underbelly of Distributed Platforms. Morgan and Claypool.
 
@@ -87,7 +87,7 @@ Jisu (2021) ‘Debunking EVERYTHING about The Technology & Ecological-Impact of 
 
 OSINACHI (2022) ‘Have NFTs Lost Their Way?’ Available at: https://www.rightclicksave.com/article/have-nfts-lost-their-way.
 
-The Blockchain Socialist (2021) ‘Unlocked: The best leftist hot take on NFTs you’ll ever listen to (Remix)’, 2 May. Available at: https://theblockchainsocialist.com/unlocked-the-best-leftist-hot-take-on-nfts-youll-ever-listen-to-remix/.
+The Blockchain Socialist (2021) ‘The best leftist hot take on NFTs you’ll ever listen to (Remix)’, 2 May. Available at: https://theblockchainsocialist.com/unlocked-the-best-leftist-hot-take-on-nfts-youll-ever-listen-to-remix/.
 
 -----------------------
 
