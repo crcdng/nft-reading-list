@@ -1,6 +1,6 @@
 # nft-reading-list
 
-A curated Crypto Art and NFT [reading](reading.md) list.
+A curated Crypto Art and NFT [reading list](reading.md).
 
 .plan 
 
