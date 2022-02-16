@@ -21,6 +21,8 @@ Bailey, J. (2021) ‘Hic Et Nunc Brings True Spirit Of Web Art To The Here And N
 
 Doe, J. (2022) ‘Hicetnunc screenshots’, Notion, 25 January. Available at: https://hot-flea-a19.notion.site/Hicetnunc-screenshots-8ed49e2ff175413d835600d0dd739ebf.
 
+Drubay, D. (2021) ‘How hic et nunc Brings a New Paradigm Shift in the NFTs and Art Spaces’, Medium, 29 October. Available at: https://dianedrubay.medium.com/how-hic-et-nunc-brings-a-new-paradigm-shift-in-the-blockchain-and-art-spaces-916b34644ce.
+
 Lima, R. (2021) ‘OBJKT Swap’, Medium, 1 March. Available at: https://hicetnunc2000.medium.com/objkt-swap-62dbaf776336 (Accessed: 16 February 2022).
 
 Plummer-Fernández, M. (2021) ‘Not another JPEG’, 9 April. Available at: https://www.plummerfernandez.com/works/not-another-jpeg/.
@@ -43,7 +45,9 @@ Wilcox, J. (1953) ‘The Beginnings of l’Art Pour l’Art’, The Journal of A
 
 #### Economy / Gouvernance / Legal 
 
-If I Only had a Heart: A DisCO Manifesto (2019). DisCO.coop, Transnational Institute and Guerrilla Media Collective.
+DisCO.coop (2019) If I Only had a Heart: A DisCO Manifesto. DisCO.coop, Transnational Institute and Guerrilla Media Collective.
+
+Kerr, D. and Jennings, M. (2022) A Legal Framework for Decentralized Autonomous Organizations.
 
 #### Environmental Impact
 
@@ -58,6 +62,8 @@ Platt, M. et al. (2021) Energy Footprint of Blockchain Consensus Mechanisms Beyo
 #### Technological Background
 
 Buterin, V. (2013) ‘Ethereum Whitepaper’. Available at: https://ethereum.org/en/whitepaper/.
+
+Cryptopedia Staff (2022) ‘What Is Proof of Stake (PoS)? PoS Types Examined’, Cryptopedia, 20 January. Available at: https://www.gemini.com/cryptopedia/proof-of-stake-delegated-proof-of-stake-consensus-mechanism, https://www.gemini.com/cryptopedia/proof-of-stake-delegated-proof-of-stake-consensus-mechanism.
 
 Entriken, W. et al. (2022) Ethereum Improvement Proposal 721. Available at: https://github.com/ethereum/EIPs/blob/0fd7ed124cc248b4d3ec62d6202b3a249a7bfe90/EIPS/eip-721.md.
 
