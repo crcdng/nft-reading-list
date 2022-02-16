@@ -89,6 +89,7 @@ OSINACHI (2022) ‘Have NFTs Lost Their Way?’ Available at: https://www.rightc
 
 The Blockchain Socialist (2021) ‘Unlocked: The best leftist hot take on NFTs you’ll ever listen to (Remix)’, 2 May. Available at: https://theblockchainsocialist.com/unlocked-the-best-leftist-hot-take-on-nfts-youll-ever-listen-to-remix/.
 
+-----------------------
 
 License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
