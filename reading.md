@@ -35,13 +35,13 @@ Straeubig, M. (2022) ‘A brief timeline of Hic et Nunc (H=N)’, GitHub. Availa
 
 Teia Community (2022) ‘Teia.art Launch Announcement’, Teia Community Updates & Resources, 1 February. Available at: https://hencommunity.quest/blog/teia-art-launch-announcement.
 
-### The Art System
+### Art System / Art Market
 
 Luhmann, N. (2000) Art as a social system. Stanford University Press.
 
 Taylor, G.D. (2014) When the Machine Made Art: The Troubled History of Computer Art. New York: Bloomsbury Publishing.
 
-Thompson, D. (2010) 12 Million Dollar Stuffed Shark: The Curious Economics of Contemporary Art. London: Aurum Press.
+Thompson, D. (2010) The 12 Million Dollar Stuffed Shark: The Curious Economics of Contemporary Art. London: Aurum Press.
 
 Warburton, N. (2003) The Art Question. London; New York: Routledge.
 
@@ -53,7 +53,7 @@ DisCO.coop (2019) If I Only had a Heart: A DisCO Manifesto. DisCO.coop, Transnat
 
 Kerr, D. and Jennings, M. (2022) A Legal Framework for Decentralized Autonomous Organizations.
 
-### Environmental Impact
+### Environmental Impact of Crypto / NFTs
 
 Koomey, J. (2019) Estimating Bitcoin Electricity Use: A Beginner’s Guide. Coin Center. Available at: https://www.coincenter.org/estimating-bitcoin-electricity-use-a-beginners-guide/.
 
