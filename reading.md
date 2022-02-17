@@ -63,6 +63,8 @@ McDonald, K. (2021) ‘Ethereum Emissions: A Bottom-up Estimate’, arXiv:2112.0
 
 Platt, M. et al. (2021) Energy Footprint of Blockchain Consensus Mechanisms Beyond Proof-of-Work. 7. UCL Centre for Blockchain Technologies. Available at: http://blockchain.cs.ucl.ac.uk/discussion-papers/.
 
+PricewaterhouseCoopers Advisory (2021) Study of the environmental impact of the Tezos blockchain - Life Cycle Assessment of the Tezos blockchain protocol. Available at: https://tezos.com/2021-12-06-Tezos-LCA-Final.pdf.
+
 ### Technological Background
 
 Buterin, V. (2013) ‘Ethereum Whitepaper’. Available at: https://ethereum.org/en/whitepaper/.
