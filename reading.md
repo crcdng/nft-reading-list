@@ -69,6 +69,8 @@ PricewaterhouseCoopers Advisory (2021) Study of the environmental impact of the 
 
 Buterin, V. (2013) ‘Ethereum Whitepaper’. Available at: https://ethereum.org/en/whitepaper/.
 
+crcdng (2022) Resources for Developers - Hic et Nunc / Teia / Tezos. Available at: https://github.com/i3games/hen-dev-resources.
+
 Cryptopedia Staff (2022) ‘What Is Proof of Stake (PoS)? PoS Types Examined’, Cryptopedia, 20 January. Available at: https://www.gemini.com/cryptopedia/proof-of-stake-delegated-proof-of-stake-consensus-mechanism.
 
 Entriken, W. et al. (2022) Ethereum Improvement Proposal 721. Available at: https://github.com/ethereum/EIPs/blob/0fd7ed124cc248b4d3ec62d6202b3a249a7bfe90/EIPS/eip-721.md.
