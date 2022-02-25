@@ -59,6 +59,8 @@ Koomey, J. (2019) Estimating Bitcoin Electricity Use: A Beginner’s Guide. Coin
 
 Lemercier, J. (2021) ‘The problem of (Ethereum) CryptoArt’, 17 February. Available at: https://joanielemercier.com/the-problem-of-cryptoart/.
 
+Lemercier, J. (2021) ‘The Carbon Drop’, Studio Joanie Lemercier, 22 March. Available at: https://joanielemercier.com/the-carbon-drop/.
+
 McDonald, K. (2021) ‘Ethereum Emissions: A Bottom-up Estimate’, arXiv:2112.01238 [cs, math] [Preprint]. Available at: http://arxiv.org/abs/2112.01238.
 
 Platt, M. et al. (2021) Energy Footprint of Blockchain Consensus Mechanisms Beyond Proof-of-Work. 7. UCL Centre for Blockchain Technologies. Available at: http://blockchain.cs.ucl.ac.uk/discussion-papers/.
@@ -90,6 +92,8 @@ Van Hijfte, S. (2020) Blockchain Platforms: A Look at the Underbelly of Distribu
 Alice, R. et al. (2022) ‘Can we Build a Better NFT Ecosystem?’ Available at: https://www.rightclicksave.com/article/can-we-build-a-better-nft-ecosystem.
 
 Jisu (2021) ‘Debunking EVERYTHING about The Technology & Ecological-Impact of NFTs/CryptoArt’, Medium, 8 May. Available at: https://jisuartist.medium.com/debunking-everything-about-the-technology-ecological-impact-of-nfts-cryptoart-60ee09bd00ed.
+
+Lemercier, J. (2022) ‘Null and void.’, Studio Joanie Lemercier, 8 January. Available at: https://joanielemercier.com/null-and-void/.
 
 OSINACHI (2022) ‘Have NFTs Lost Their Way?’ Available at: https://www.rightclicksave.com/article/have-nfts-lost-their-way.
 
