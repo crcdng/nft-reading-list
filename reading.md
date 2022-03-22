@@ -47,10 +47,15 @@ Warburton, N. (2003) The Art Question. London; New York: Routledge.
 
 Wilcox, J. (1953) ‘The Beginnings of l’Art Pour l’Art’, The Journal of Aesthetics and Art Criticism, 11(4), p. 360. doi:10.2307/426457.
 
-### Economy / Gouvernance / Legal 
+### Art and NFTs - Ethical and Legal issues 
+
+Association of Registrars and Collections Specialists (2021) Code of Ethics and Professional Practices for Collections Professionals. American Alliance of Museums.
+
+Guadamuz, A. (2021) ‘The treachery of images: non-fungible tokens and copyright’, Journal of Intellectual Property Law & Practice, 16(12), pp. 1367–1385.
+
+### Governance / Community / DAO 
 
 DisCO.coop (2019) If I Only had a Heart: A DisCO Manifesto. DisCO.coop, Transnational Institute and Guerrilla Media Collective.
-
 Kerr, D. and Jennings, M. (2022) A Legal Framework for Decentralized Autonomous Organizations.
 
 ### Environmental Impact of Crypto / NFTs
@@ -87,7 +92,7 @@ Radomski, W. et al. (2022) Ethereum Improvement Proposal 1155. Available at: htt
 
 Van Hijfte, S. (2020) Blockchain Platforms: A Look at the Underbelly of Distributed Platforms. Morgan and Claypool.
 
-### Commentary 
+### Commentary and Critique 
 
 Alice, R. et al. (2022) ‘Can we Build a Better NFT Ecosystem?’ Available at: https://www.rightclicksave.com/article/can-we-build-a-better-nft-ecosystem.
 
