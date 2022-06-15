@@ -53,10 +53,13 @@ Association of Registrars and Collections Specialists (2021) Code of Ethics and 
 
 Guadamuz, A. (2021) ‘The treachery of images: non-fungible tokens and copyright’, Journal of Intellectual Property Law & Practice, 16(12), pp. 1367–1385.
 
-### Governance / Community / DAO 
+### Governance / Community / Ecomomy / DAO 
 
 DisCO.coop (2019) If I Only had a Heart: A DisCO Manifesto. DisCO.coop, Transnational Institute and Guerrilla Media Collective.
+
 Kerr, D. and Jennings, M. (2022) A Legal Framework for Decentralized Autonomous Organizations.
+
+Shorin, T., Hart, S. and Lotti, L. (2021) ‘Positive Sum Worlds: Remaking Public Goods’. Available at: https://otherinter.net/research/positive-sum-worlds/positive-sum-worlds.
 
 ### Environmental Impact of Crypto / NFTs
 
@@ -76,7 +79,7 @@ PricewaterhouseCoopers Advisory (2021) Study of the environmental impact of the 
 
 Buterin, V. (2013) ‘Ethereum Whitepaper’. Available at: https://ethereum.org/en/whitepaper/.
 
-crcdng (2022) Resources for Developers - Hic et Nunc / Teia / Tezos. Available at: https://github.com/i3games/hen-dev-resources.
+crcdng (2022) Resources for Developers - Hic et Nunc / Teia / Tezos. Available at: https://github.com/i3games/tezos-dev-resources.
 
 Cryptopedia Staff (2022) ‘What Is Proof of Stake (PoS)? PoS Types Examined’, Cryptopedia, 20 January. Available at: https://www.gemini.com/cryptopedia/proof-of-stake-delegated-proof-of-stake-consensus-mechanism.
 
@@ -93,6 +96,14 @@ Radomski, W. et al. (2022) Ethereum Improvement Proposal 1155. Available at: htt
 Van Hijfte, S. (2020) Blockchain Platforms: A Look at the Underbelly of Distributed Platforms. Morgan and Claypool.
 
 ### Commentary and Critique 
+
+Online Sources:
+
+https://www.rightclicksave.com/.    
+https://otherinter.net/research/.    
+https://networkcultures.org/moneylab/ 
+
+Articles:
 
 Alice, R. et al. (2022) ‘Can we Build a Better NFT Ecosystem?’ Available at: https://www.rightclicksave.com/article/can-we-build-a-better-nft-ecosystem.
 
