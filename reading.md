@@ -101,7 +101,8 @@ Online Sources:
 
 https://www.rightclicksave.com/.    
 https://otherinter.net/research/.    
-https://networkcultures.org/moneylab/ 
+https://networkcultures.org/moneylab/.   
+https://theblockchainsocialist.com/.   
 
 Articles:
 
