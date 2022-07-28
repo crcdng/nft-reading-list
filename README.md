@@ -5,7 +5,7 @@ A curated Crypto Art and NFT [reading list](reading.md).
 .plan 
 
 [X] Plain List (first iteration).   
-[ ] BibTex / Zotero citation files.    
+[X] BibTex / Zotero citation files.    
 [ ] Suggested reading paths.    
 [ ] Commented list.   
 
