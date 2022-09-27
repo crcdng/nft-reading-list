@@ -32,9 +32,11 @@ Mumu the Stan, Koshino, T. and P1xelfool (2021) ‘Building a Global NFT Movemen
 
 Plummer-Fernández, M. (2021) ‘Not another JPEG’, 9 April. Available at: https://www.plummerfernandez.com/works/not-another-jpeg/.
 
-Straeubig, M. (2022) ‘A brief timeline of Hic et Nunc (H=N)’, GitHub. Available at: https://github.com/i3games/hen-timeline.
+Straeubig, M. (2022) ‘A brief timeline of Hic et Nunc (H=N)’, GitHub. Available at: https://github.com/crcdng/hen-timeline.
 
 Teia Community (2022) ‘Teia.art Launch Announcement’, Teia Community Updates & Resources, 1 February. Available at: https://hencommunity.quest/blog/teia-art-launch-announcement.
+
+Teia community (no date) Teia Wiki. Available at: https://github.com/teia-community/teia-docs/wiki.
 
 ### Art System / Art Market
 
