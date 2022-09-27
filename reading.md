@@ -1,5 +1,6 @@
 ## CryptoArt and NFT reading list
 
+*Please make sure to read the [README.md](README.md) for context and license use*
 
 ### CryptoArt / NFTs
 
