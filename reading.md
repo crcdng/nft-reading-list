@@ -64,6 +64,8 @@ DisCO.coop (2019) If I Only had a Heart: A DisCO Manifesto. DisCO.coop, Transnat
 
 Kerr, D. and Jennings, M. (2022) A Legal Framework for Decentralized Autonomous Organizations.
 
+Schneider, N. (2022) ‘Cryptoeconomics as a Limitation on Governance’, mirror.xyz, 11 August. Available at: https://ntnsndr.mirror.xyz/zO27EOn9P_62jVlautpZD5hHB7ycf3Cfc2N6byz6DOk (Accessed: 27 September 2022).
+
 Shorin, T., Hart, S. and Lotti, L. (2021) ‘Positive Sum Worlds: Remaking Public Goods’. Available at: https://otherinter.net/research/positive-sum-worlds/positive-sum-worlds.
 
 Zargham, M. and Nabben, K. (2022) ‘Aligning “Decentralized Autonomous Organization” to Precedents in Cybernetics’. (to be published)
