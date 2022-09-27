@@ -55,11 +55,15 @@ Guadamuz, A. (2021) ‘The treachery of images: non-fungible tokens and copyrigh
 
 ### Governance / Community / Ecomomy / DAO 
 
+Catlow, R. and Rafferty, P. (eds) (2022) Radical friends: decentralised autonomous organisations and the arts. United Kingdom: Torque Editions.
+
 DisCO.coop (2019) If I Only had a Heart: A DisCO Manifesto. DisCO.coop, Transnational Institute and Guerrilla Media Collective.
 
 Kerr, D. and Jennings, M. (2022) A Legal Framework for Decentralized Autonomous Organizations.
 
 Shorin, T., Hart, S. and Lotti, L. (2021) ‘Positive Sum Worlds: Remaking Public Goods’. Available at: https://otherinter.net/research/positive-sum-worlds/positive-sum-worlds.
+
+Zargham, M. and Nabben, K. (2022) ‘Aligning “Decentralized Autonomous Organization” to Precedents in Cybernetics’. (to be published)
 
 ### Environmental Impact of Crypto / NFTs
 
