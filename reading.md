@@ -12,6 +12,8 @@ Lovink, G., Vries, P. de and Gloerich, I. (eds) (2019) Moneylab Report: Outside 
 
 Myers, R. (2019) ‘Three Times Three Modes of Blockchain Art’, Essays, 8 May. Available at: https://rhea.art/three-times-three-modes-of-blockchain-art.
 
+Nadini, M. et al. (2021) ‘Mapping the NFT revolution: market trends, trade networks, and visual features’, Scientific Reports, 11(1), p. 20902. Available at: https://doi.org/10.1038/s41598-021-00053-8.
+
 Ostachowski, M.L. (2021) History of Crypto Art. Available at: https://mlo.art/research/history-of-crypto-art/.
 
 Weidinger, A. et al. (eds) (2021) Proof of art: a short history of NFTs, from the beginning of digital art to the metaverse. Berlin: DISTANZ Verlag.
@@ -56,7 +58,7 @@ Association of Registrars and Collections Specialists (2021) Code of Ethics and 
 
 Guadamuz, A. (2021) ‘The treachery of images: non-fungible tokens and copyright’, Journal of Intellectual Property Law & Practice, 16(12), pp. 1367–1385.
 
-### Governance / Community / Ecomomy / DAO 
+### Governance / Community / Economy / Token Engineering / DAO 
 
 Catlow, R. and Rafferty, P. (eds) (2022) Radical friends: decentralised autonomous organisations and the arts. United Kingdom: Torque Editions.
 
@@ -64,9 +66,13 @@ DisCO.coop (2019) If I Only had a Heart: A DisCO Manifesto. DisCO.coop, Transnat
 
 Kerr, D. and Jennings, M. (2022) A Legal Framework for Decentralized Autonomous Organizations.
 
+McConaghy, T. (2021) ‘Towards a Practice of Token Engineering. Methodology, Patterns & Tools. TE Series Part II.’, Medium, 30 April. Available at: https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca.
+
 Schneider, N. (2022) ‘Cryptoeconomics as a Limitation on Governance’, mirror.xyz, 11 August. Available at: https://ntnsndr.mirror.xyz/zO27EOn9P_62jVlautpZD5hHB7ycf3Cfc2N6byz6DOk (Accessed: 27 September 2022).
 
 Shorin, T., Hart, S. and Lotti, L. (2021) ‘Positive Sum Worlds: Remaking Public Goods’. Available at: https://otherinter.net/research/positive-sum-worlds/positive-sum-worlds.
+
+Voshmgir, S. (2020) Token economy: how the Web3 reinvents the internet. Second edition. Berlin: BlockchainHub. Available at: https://github.com/sherminvo/TokenEconomyBook/wiki.
 
 Zargham, M. and Nabben, K. (2022) ‘Aligning “Decentralized Autonomous Organization” to Precedents in Cybernetics’. (to be published)
 
