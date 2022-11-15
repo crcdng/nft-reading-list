@@ -72,6 +72,8 @@ Schneider, N. (2022) ‘Cryptoeconomics as a Limitation on Governance’, mirror
 
 Shorin, T., Hart, S. and Lotti, L. (2021) ‘Positive Sum Worlds: Remaking Public Goods’. Available at: https://otherinter.net/research/positive-sum-worlds/positive-sum-worlds.
 
+Stalder, F. and Janša, J.F. (eds) (2022) From Commons to NFTs. Ljubljana: Aksioma – Institute for Contemporary Art, Ljubljana.
+
 Voshmgir, S. (2020) Token economy: how the Web3 reinvents the internet. Second edition. Berlin: BlockchainHub. Available at: https://github.com/sherminvo/TokenEconomyBook/wiki.
 
 Zargham, M. and Nabben, K. (2022) ‘Aligning “Decentralized Autonomous Organization” to Precedents in Cybernetics’. (to be published)
