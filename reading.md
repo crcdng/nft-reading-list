@@ -42,7 +42,9 @@ Teia Community (2022) ‘Teia.art Launch Announcement’, Teia Community Updates
 
 Teia community (no date) Teia Wiki. Available at: https://github.com/teia-community/teia-docs/wiki.
 
-### Art System / Art Market
+### Art System / Art Market / Curation
+
+Dekker, A. and Arreola-Burns, P. (eds) (2021) Curating digital art: from presenting and collecting digital art to networked co-curation. Amsterdam: Valiz (Making Public).
 
 Luhmann, N. (2000) Art as a social system. Stanford University Press.
 
