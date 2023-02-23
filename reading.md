@@ -74,6 +74,8 @@ McConaghy, T. (2021) ‘Towards a Practice of Token Engineering. Methodology, Pa
 
 Schneider, N. (2022) ‘Cryptoeconomics as a Limitation on Governance’, mirror.xyz, 11 August. Available at: https://ntnsndr.mirror.xyz/zO27EOn9P_62jVlautpZD5hHB7ycf3Cfc2N6byz6DOk (Accessed: 27 September 2022).
 
+Seidler, P., Kolling, P. and Hampshire, M. (2016) terra0 - Can an augmented forest own and utilise itself? Berlin: Berlin University of the Arts. Available at: https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf.
+
 Shorin, T., Hart, S. and Lotti, L. (2021) ‘Positive Sum Worlds: Remaking Public Goods’. Available at: https://otherinter.net/research/positive-sum-worlds/positive-sum-worlds.
 
 Stalder, F. and Janša, J.F. (eds) (2022) From Commons to NFTs. Ljubljana: Aksioma – Institute for Contemporary Art, Ljubljana.
