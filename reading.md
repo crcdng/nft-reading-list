@@ -48,6 +48,10 @@ Dekker, A. and Arreola-Burns, P. (eds) (2021) Curating digital art: from present
 
 Luhmann, N. (2000) Art as a social system. Stanford University Press.
 
+Obrist, H.U. and Raza, A. (2015) Ways of curating. London: Penguin books.
+
+Oberender, T. (2021) The living exhibition: Berliner Festspiele/Immersion. Edited by P. Rabe et al. Leipzig: Spector Books.
+
 Taylor, G.D. (2014) When the Machine Made Art: The Troubled History of Computer Art. New York: Bloomsbury Publishing.
 
 Thompson, D. (2010) The 12 Million Dollar Stuffed Shark: The Curious Economics of Contemporary Art. London: Aurum Press.
@@ -55,6 +59,8 @@ Thompson, D. (2010) The 12 Million Dollar Stuffed Shark: The Curious Economics o
 Warburton, N. (2003) The Art Question. London; New York: Routledge.
 
 Wilcox, J. (1953) ‘The Beginnings of l’Art Pour l’Art’, The Journal of Aesthetics and Art Criticism, 11(4), p. 360. doi:10.2307/426457.
+
+Wong, A.L. (2019) ‘Speculation and Acceleration: Financialization, Art & The Blockchain’, in. International Symposium on Computational Media Art (ISCMA) 2019, Hong Kong, p. 2.
 
 ### Art and NFTs - Ethical and Legal issues 
 
@@ -120,15 +126,6 @@ Van Hijfte, S. (2020) Blockchain Platforms: A Look at the Underbelly of Distribu
 
 ### Commentary and Critique 
 
-Online Sources:
-
-https://www.rightclicksave.com/.    
-https://otherinter.net/research/.    
-https://networkcultures.org/moneylab/.   
-https://theblockchainsocialist.com/.   
-
-Articles:
-
 Alice, R. et al. (2022) ‘Can we Build a Better NFT Ecosystem?’ Available at: https://www.rightclicksave.com/article/can-we-build-a-better-nft-ecosystem.
 
 Jisu (2021) ‘Debunking EVERYTHING about The Technology & Ecological-Impact of NFTs/CryptoArt’, Medium, 8 May. Available at: https://jisuartist.medium.com/debunking-everything-about-the-technology-ecological-impact-of-nfts-cryptoart-60ee09bd00ed.
@@ -138,6 +135,14 @@ Lemercier, J. (2022) ‘Null and void.’, Studio Joanie Lemercier, 8 January. A
 OSINACHI (2022) ‘Have NFTs Lost Their Way?’ Available at: https://www.rightclicksave.com/article/have-nfts-lost-their-way.
 
 The Blockchain Socialist (2021) ‘The best leftist hot take on NFTs you’ll ever listen to (Remix)’, 2 May. Available at: https://theblockchainsocialist.com/unlocked-the-best-leftist-hot-take-on-nfts-youll-ever-listen-to-remix/.
+
+### Further Online Resources
+
+https://on-curating.org/
+https://www.rightclicksave.com/.    
+https://otherinter.net/research/.    
+https://networkcultures.org/moneylab/.   
+https://theblockchainsocialist.com/.   
 
 -----------------------
 
