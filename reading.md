@@ -120,7 +120,7 @@ Entriken, W. et al. (2022) Ethereum Improvement Proposal 721. Available at: http
 
 Goodman, L.M. (2014) Tezos — a self-amending crypto-ledger. White paper.
 
-Mishura, E. and Mondet, S. (2020) FA2 - Multi-Asset Interface. TZIP-12. Available at: https://gitlab.com/tezos/tzip/-/blob/master/proposals/tzip-12/tzip-12.md .
+Mishura, E. and Mondet, S. (2020) FA2 - Multi-Asset Interface. TZIP-12. Available at: https://gitlab.com/tezos/tzip/-/blob/master/proposals/tzip-12/tzip-12.md.
 
 Nakamoto, S. (2008) Bitcoin: A peer-to-peer electronic cash system. Available at: https://bitcoin.org/bitcoin.pdf.
 
@@ -131,6 +131,8 @@ Van Hijfte, S. (2020) Blockchain Platforms: A Look at the Underbelly of Distribu
 ### Commentary and Critique 
 
 Alice, R. et al. (2022) ‘Can we Build a Better NFT Ecosystem?’ Available at: https://www.rightclicksave.com/article/can-we-build-a-better-nft-ecosystem.
+
+Suematsu, D. (2022) ‘Seemingly Never-ending Question of What NFT Is’, CYCLE. Available at: https://cycle-interactive.com/s/what-is-nft.
 
 Jisu (2021) ‘Debunking EVERYTHING about The Technology & Ecological-Impact of NFTs/CryptoArt’, Medium, 8 May. Available at: https://jisuartist.medium.com/debunking-everything-about-the-technology-ecological-impact-of-nfts-cryptoart-60ee09bd00ed.
 
