@@ -48,9 +48,13 @@ Dekker, A. and Arreola-Burns, P. (eds) (2021) Curating digital art: from present
 
 Luhmann, N. (2000) Art as a social system. Stanford University Press.
 
+Muñiz-Reed, I. (2017) ‘Thoughts on Curatorial Practices in the Decolonial Turn’, in OnCurating Issue 35: Decolonizing Art Institutions, pp. 99–105.
+
 Obrist, H.U. and Raza, A. (2015) Ways of curating. London: Penguin books.
 
 Oberender, T. (2021) The living exhibition: Berliner Festspiele/Immersion. Edited by P. Rabe et al. Leipzig: Spector Books.
+
+Richter, D. (2021) ‘Curating the Digital - A Historical Perspective’, in Curating the Digital. (Notes on Curating, 45), pp. 9–28.
 
 Taylor, G.D. (2014) When the Machine Made Art: The Troubled History of Computer Art. New York: Bloomsbury Publishing.
 
