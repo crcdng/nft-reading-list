@@ -142,8 +142,8 @@ The Blockchain Socialist (2021) ‘The best leftist hot take on NFTs you’ll ev
 
 ### Further Online Resources
 
-https://on-curating.org/
-https://www.rightclicksave.com/.    
+https://www.rightclicksave.com/.
+https://on-curating.org/    
 https://otherinter.net/research/.    
 https://networkcultures.org/moneylab/.   
 https://theblockchainsocialist.com/.   
