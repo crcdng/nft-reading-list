@@ -70,6 +70,8 @@ Wong, A.L. (2019) ‘Speculation and Acceleration: Financialization, Art & The B
 
 Association of Registrars and Collections Specialists (2021) Code of Ethics and Professional Practices for Collections Professionals. American Alliance of Museums.
 
+De Filippi, P. et al. (2022) Report on blockchain technology & legitimacy. European University Institute. Available at: https://blockchaingov.eu/report-on-blockchain-technology-legitimacy/.
+
 Guadamuz, A. (2021) ‘The treachery of images: non-fungible tokens and copyright’, Journal of Intellectual Property Law & Practice, 16(12), pp. 1367–1385.
 
 ### Governance / Community / Economy / Token Engineering / DAO 
