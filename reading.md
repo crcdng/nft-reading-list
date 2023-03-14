@@ -16,6 +16,8 @@ Nadini, M. et al. (2021) ‘Mapping the NFT revolution: market trends, trade net
 
 Ostachowski, M.L. (2021) History of Crypto Art. Available at: https://mlo.art/research/history-of-crypto-art/.
 
+Quaranta, D. (2022) Surfing with Satoshi: art, blockchain and NFTs. [English edition]. Translated by A. Carruthers. Milano: Postmedia books.
+
 Stern, A. et al. (2022) 100 Womxn Artists to Follow in the NFT Space. Available at: https://www.gxrlsrevolution.xyz/.
 
 Weidinger, A. et al. (eds) (2021) Proof of art: a short history of NFTs, from the beginning of digital art to the metaverse. Berlin: DISTANZ Verlag.
