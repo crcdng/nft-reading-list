@@ -54,6 +54,8 @@ Obrist, H.U. and Raza, A. (2015) Ways of curating. London: Penguin books.
 
 Oberender, T. (2021) The living exhibition: Berliner Festspiele/Immersion. Edited by P. Rabe et al. Leipzig: Spector Books.
 
+Paul, C. (2015) Digital art. Third edition. London: Thames & Hudson (World of art).
+
 Richter, D. (2021) ‘Curating the Digital - A Historical Perspective’, in Curating the Digital. (Notes on Curating, 45), pp. 9–28.
 
 Taylor, G.D. (2014) When the Machine Made Art: The Troubled History of Computer Art. New York: Bloomsbury Publishing.
