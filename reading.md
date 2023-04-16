@@ -10,7 +10,7 @@ Catlow, R. et al. (eds) (2017) Artists re:thinking the blockchain. London: Torqu
 
 Lovink, G., Vries, P. de and Gloerich, I. (eds) (2019) Moneylab Report: Outside of Finance. Amsterdam: Institute of Network Cultures (INC Reader, 10).
 
-Myers, R. (2019) ‘Three Times Three Modes of Blockchain Art’, Essays, 8 May. Available at: https://rhea.art/three-times-three-modes-of-blockchain-art.
+Myers, R. (2023) Proof of Work: Blockchain Provocations 2011-2021. Urbanomic.
 
 Nadini, M. et al. (2021) ‘Mapping the NFT revolution: market trends, trade networks, and visual features’, Scientific Reports, 11(1), p. 20902. Available at: https://doi.org/10.1038/s41598-021-00053-8.
 
