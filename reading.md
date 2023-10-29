@@ -76,6 +76,8 @@ Association of Registrars and Collections Specialists (2021) Code of Ethics and 
 
 De Filippi, P. et al. (2022) Report on blockchain technology & legitimacy. European University Institute. Available at: https://blockchaingov.eu/report-on-blockchain-technology-legitimacy/.
 
+De Filippi, P., Mannan, M. and Reijers, W. (2022) ‘The alegality of blockchain technology’, Policy and Society, 41(3), pp. 358–372. Available at: https://doi.org/10.1093/polsoc/puac006.
+
 Guadamuz, A. (2021) ‘The treachery of images: non-fungible tokens and copyright’, Journal of Intellectual Property Law & Practice, 16(12), pp. 1367–1385.
 
 ### Governance / Community / Economy / Token Engineering / DAO 
