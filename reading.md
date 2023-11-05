@@ -82,6 +82,8 @@ Guadamuz, A. (2021) ‘The treachery of images: non-fungible tokens and copyrigh
 
 ### Governance / Community / Economy / Token Engineering / DAO 
 
+Dávila, J. (2023) Blockchain radicals: how capitalism ruined crypto and how to fix it. London: Repeater.
+
 Catlow, R. and Rafferty, P. (eds) (2022) Radical friends: decentralised autonomous organisations and the arts. United Kingdom: Torque Editions.
 
 DisCO.coop (2019) If I Only had a Heart: A DisCO Manifesto. DisCO.coop, Transnational Institute and Guerrilla Media Collective.
