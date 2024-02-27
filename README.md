@@ -4,11 +4,11 @@ A curated Crypto Art and NFT [reading list](reading.md).
 
 .plan 
 
-[X] Plain List (first iteration)  
-[X] BibTex citation file
-[X] PDF
-[ ] Commented list   
-[ ] Suggested reading paths    
+[X] Plain List          
+[X] BibTex citation file    
+[X] PDF    
+[ ] Commented list       
+[ ] Suggested reading paths        
 
 
 by [@crcdng](https://twitter.com/crcdng)
