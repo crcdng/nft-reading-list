@@ -47,6 +47,8 @@ Mumu the Stan, Koshino, T. and P1xelfool (2021) ‘Building a Global NFT Movemen
 
 Plummer-Fernández, M. (2021) ‘Not another JPEG’, 9 April. Available at: https://www.plummerfernandez.com/works/not-another-jpeg/.
 
+Straeubig, M. and Koshino, T. (2024) ‘On the early days of Hic et Nunc’, in A. Estorick (ed.) Right Click Save - The New Digital Art Community. Berlin: Vetro Editions. Available at: https://clubnft.com/.
+
 Teia Community (2022) ‘Teia.art Launch Announcement’, Teia Community Updates & Resources, 1 February. Available at: https://hencommunity.quest/blog/teia-art-launch-announcement.
 
 Teia community (no date) Teia Wiki. Available at: https://github.com/teia-community/teia-docs/wiki.
