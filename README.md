@@ -1,6 +1,6 @@
 # nft-reading-list
 
-A curated Crypto Art and NFT [reading list](reading.md).
+A curated Crypto Art and NFT [reading list](reading.md) with some focus on Hic et Nunc and Teia.
 
 .plan 
 
@@ -9,7 +9,6 @@ A curated Crypto Art and NFT [reading list](reading.md).
 [X] PDF    
 [ ] Commented list       
 [ ] Suggested reading paths        
-
 
 by [@crcdng](https://twitter.com/crcdng)
 

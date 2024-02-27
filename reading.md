@@ -1,6 +1,7 @@
 ## CryptoArt and NFT reading list
+by [@crcdng](https://twitter.com/crcdng)
 
-*Please make sure to read the [README.md](README.md) for context and license use*
+*Please make sure to read the [README.md](https://github.com/crcdng/nft-reading-list/blob/main/README.md) for context and license*
 
 ### CryptoArt / NFTs
 
@@ -13,6 +14,8 @@ Catlow, R. et al. (eds) (2017) Artists re:thinking the blockchain. London: Torqu
 Estorick, A. (2024) Right Click Save - The New Digital Art Community. Berlin: Vetro Editions.
 
 Lovink, G., Vries, P. de and Gloerich, I. (eds) (2019) Moneylab Report: Outside of Finance. Amsterdam: Institute of Network Cultures (INC Reader, 10).
+
+Myers, R. (2019) ‘Three Times Three Modes of Blockchain Art’, Essays, 8 May. Available at: https://rhea.art/three-times-three-modes-of-blockchain-art.
 
 Myers, R. (2023) Proof of Work: Blockchain Provocations 2011-2021. Urbanomic.
 
@@ -30,6 +33,8 @@ Weidinger, A. et al. (eds) (2021) Proof of art: a short history of NFTs, from th
 
 Bailey, J. (2021) ‘Hic Et Nunc Brings True Spirit Of Web Art To The Here And Now’, Artnome, 21 March. Available at: https://www.artnome.com/news/2021/3/21/hic-et-nunc-revives-the-true-spirit-of-web-art-through-nfts.
 
+crcdng (2022) ‘A brief timeline of Hic et Nunc (H=N)’, GitHub. Available at: https://github.com/crcdng/hen-timeline.
+
 Doe, J. (2022) ‘Hicetnunc screenshots’, Notion, 25 January. Available at: https://hot-flea-a19.notion.site/Hicetnunc-screenshots-8ed49e2ff175413d835600d0dd739ebf.
 
 Drubay, D. (2021) ‘How hic et nunc Brings a New Paradigm Shift in the NFTs and Art Spaces’, Medium, 29 October. Available at: https://dianedrubay.medium.com/how-hic-et-nunc-brings-a-new-paradigm-shift-in-the-blockchain-and-art-spaces-916b34644ce.
@@ -41,8 +46,6 @@ Lima, R. (2021) ‘OBJKT Swap’, Medium, 1 March. Available at: https://hicetnu
 Mumu the Stan, Koshino, T. and P1xelfool (2021) ‘Building a Global NFT Movement’. Available at: https://tezos.com/events/art-basel/.
 
 Plummer-Fernández, M. (2021) ‘Not another JPEG’, 9 April. Available at: https://www.plummerfernandez.com/works/not-another-jpeg/.
-
-Straeubig, M. (2022) ‘A brief timeline of Hic et Nunc (H=N)’, GitHub. Available at: https://github.com/crcdng/hen-timeline.
 
 Teia Community (2022) ‘Teia.art Launch Announcement’, Teia Community Updates & Resources, 1 February. Available at: https://hencommunity.quest/blog/teia-art-launch-announcement.
 
@@ -126,7 +129,7 @@ PricewaterhouseCoopers Advisory (2021) Study of the environmental impact of the 
 
 Buterin, V. (2013) ‘Ethereum Whitepaper’. Available at: https://ethereum.org/en/whitepaper/.
 
-crcdng (2022) Resources for Developers - Hic et Nunc / Teia / Tezos. Available at: https://github.com/i3games/tezos-dev-resources.
+crcdng (2022) Resources for Developers - Hic et Nunc / Teia / Tezos. Available at: https://github.com/crcdng/tezos-dev-resources.
 
 Cryptopedia Staff (2022) ‘What Is Proof of Stake (PoS)? PoS Types Examined’, Cryptopedia, 20 January. Available at: https://www.gemini.com/cryptopedia/proof-of-stake-delegated-proof-of-stake-consensus-mechanism.
 
@@ -145,8 +148,6 @@ Van Hijfte, S. (2020) Blockchain Platforms: A Look at the Underbelly of Distribu
 ### Commentary and Critique 
 
 Alice, R. et al. (2022) ‘Can we Build a Better NFT Ecosystem?’ Available at: https://www.rightclicksave.com/article/can-we-build-a-better-nft-ecosystem.
-
-Dávila, J. (2023) Blockchain radicals: how capitalism ruined crypto and how to fix it. London: Repeater.
 
 Suematsu, D. (2022) ‘Seemingly Never-ending Question of What NFT Is’, CYCLE. Available at: https://cycle-interactive.com/s/what-is-nft.
 
