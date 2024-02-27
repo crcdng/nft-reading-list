@@ -4,9 +4,13 @@
 
 ### CryptoArt / NFTs
 
+Alice, R. (ed.) (2024) TASCHEN Books: On NFTs. Collector’s Edition. Cologne: Taschen Verlag.
+
 Bailey, J. (2017) ‘The Blockchain Art Market is Here’, Artnome, 27 December. Available at: https://www.artnome.com/news/2017/12/22/the-blockchain-art-market-is-here.
 
 Catlow, R. et al. (eds) (2017) Artists re:thinking the blockchain. London: Torque Editions and Furtherfield.
+
+Estorick, A. (2024) Right Click Save - The New Digital Art Community. Berlin: Vetro Editions.
 
 Lovink, G., Vries, P. de and Gloerich, I. (eds) (2019) Moneylab Report: Outside of Finance. Amsterdam: Institute of Network Cultures (INC Reader, 10).
 
@@ -142,6 +146,8 @@ Van Hijfte, S. (2020) Blockchain Platforms: A Look at the Underbelly of Distribu
 
 Alice, R. et al. (2022) ‘Can we Build a Better NFT Ecosystem?’ Available at: https://www.rightclicksave.com/article/can-we-build-a-better-nft-ecosystem.
 
+Dávila, J. (2023) Blockchain radicals: how capitalism ruined crypto and how to fix it. London: Repeater.
+
 Suematsu, D. (2022) ‘Seemingly Never-ending Question of What NFT Is’, CYCLE. Available at: https://cycle-interactive.com/s/what-is-nft.
 
 Jisu (2021) ‘Debunking EVERYTHING about The Technology & Ecological-Impact of NFTs/CryptoArt’, Medium, 8 May. Available at: https://jisuartist.medium.com/debunking-everything-about-the-technology-ecological-impact-of-nfts-cryptoart-60ee09bd00ed.
@@ -158,7 +164,8 @@ https://www.rightclicksave.com/
 https://outland.art/all/    
 https://on-curating.org/   
 https://otherinter.net/research/    
-https://networkcultures.org/moneylab/   
+https://networkcultures.org/moneylab/
+
 https://theblockchainsocialist.com/   
 
 -----------------------
